@@ -1,0 +1,7 @@
+Prénom = Thibert
+Nom = Pelichet
+DDN = 26/05/2003
+Âge = 21 ans
+Sexe = Homme
+Taille = 1m71
+Adresse mail = tpelichet.@ensc.fr
