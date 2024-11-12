@@ -5,3 +5,5 @@ DDN = 26/05/2003
 Sexe = Homme
 Taille = 1m71
 Adresse mail = tpelichet.@ensc.fr
+Lieu de naissance = Grasse
+Couleur pref = orange
